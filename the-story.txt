@@ -49,3 +49,19 @@ Will continue to examine technological sample for 10 minutes, at which time BUNK
 ****E.D. TRANSMISSION END.
 
 ---------------------------------------
+
+E.D. TRANSMISSION ONLINE
+***
+BUNKER protocol terminated abrubtly. S.E.D. emergency beacon emitted from it's last known location. The beacon has increased the threat level by 12 percent for an overall 23 percent threat percentage. I will proceed with caution.
+No sign of storm nearby. Exiting native structure.
+The storm has wiped all tracks - both mine and native tracks are unidentifiable. Without S.E.D. I must head for higher ground for an efficient scan vantage point.
+There is a small mountain about 5,250 ft tall 12 km due east. Thrusters on, estimated time to summit: 10 minutes.
+
+E.D. TRANSMISSION ONLINE
+***
+I have reached the summit. Scanning ...
+I have located S.E.D. by it's passive emergency signal. It appears to have been taken by the previously observed heat signatures.
+The location has a series of small hollow structures, most likely a village. I am currently too far to pick up any heat signatures. I will begin my descent and approach the village now.
+****E.D. TRANSMISSION END.
+
+---------------------------------------
